@@ -12,3 +12,4 @@ brainstorm <br>
 laydown maths <br>
 work in python => basic <br>
 migrate logic in js/ts <br>
+logo <br>
