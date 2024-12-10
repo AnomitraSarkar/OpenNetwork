@@ -1,14 +1,14 @@
 # TODO
 
 ### important todo
-learn typescript.
-array matrix ke base par three js blocks => biases
-connections based on three =>weights
-maps
+learn typescript <br>
+array matrix ke base par three js blocks => biases <br>
+connections based on three =>weights <br>
+maps <br>
 
 
 ### sub todo
-brainstorm 
-laydown maths
-work in python => basic
-migrate logic in js/ts
+brainstorm <br>
+laydown maths <br>
+work in python => basic <br>
+migrate logic in js/ts <br>
