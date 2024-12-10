@@ -1,7 +1,7 @@
 # TODO
 
 ### important todo
-learn typescript
+learn typescript.
 array matrix ke base par three js blocks => biases
 connections based on three =>weights
 maps
