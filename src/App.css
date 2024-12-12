@@ -1,0 +1,10 @@
+/* App.css */
+.canvas-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 75%; /* Occupies 50% of the screen width */
+  height: 100vh; /* Full viewport height */
+  overflow: hidden;
+  background-color: #000; /* Optional background color */
+}
